@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="190.724" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2019-02-05T00:35:59" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="git_test " timestamp="2019-02-05T00:35:59" tests="6" file="E:\Adrian\VanHack\vanhack_nodejs_gitevents\test\tests.js" failures="0" time="190.724">
+    <testcase name="git_test  http00.json: Sample Test" time="3.934" classname="http00.json: Sample Test">
+    </testcase>
+    <testcase name="git_test  http01.json: Additional Test 1" time="19.713" classname="http01.json: Additional Test 1">
+    </testcase>
+    <testcase name="git_test  http02.json: Additional Test 2" time="28.721" classname="http02.json: Additional Test 2">
+    </testcase>
+    <testcase name="git_test  http03.json: Additional Test 3" time="37.793" classname="http03.json: Additional Test 3">
+    </testcase>
+    <testcase name="git_test  http04.json: Additional Test 4" time="45.571" classname="http04.json: Additional Test 4">
+    </testcase>
+    <testcase name="git_test  http05.json: Additional Test 5" time="54.992" classname="http05.json: Additional Test 5">
+    </testcase>
+  </testsuite>
+</testsuites>
